@@ -1,0 +1,5 @@
+Test1: compare to stored hex
+2: Basic secuity
+3: working simon
+4: concise simon
+5: Same as 4
